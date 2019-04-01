@@ -1,0 +1,4 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>Святи́тель Феофила́кт Испове́дник, епи́скоп Никомиди́йский</p>
+</title>
+</section>

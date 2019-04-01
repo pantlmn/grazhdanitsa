@@ -1,0 +1,3 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>Житие и иконописную прорись <red>преподобной Евфросинии Суздальской</red> смотри 18 сентября (с. 505).</p>
+<p>В той же день</p>
+</section>

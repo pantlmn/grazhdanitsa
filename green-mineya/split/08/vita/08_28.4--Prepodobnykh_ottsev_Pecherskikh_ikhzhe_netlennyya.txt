@@ -1,0 +1,3 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p id="p3"><strong>3</strong>. Книга, глаголемая описание о Российских святых. Дополненная графом М. В. Толстым. Б. г.</p>
+<p id="p4"><strong>4</strong>. Игнатий (Малышев), архимандрит. Краткие жизнеописания Русских святых. X-ХIV вв. СПб., 1875.</p>
+</section>

@@ -1,0 +1,9 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>Обре́тение моще́й преподобнаго Ти́хона Луховска́го, Костромска́го</p>
+</title>
+<p>
+<emphasis>
+<red>(Слу́жбу зри 16 ию́ня)</red>
+</emphasis>
+</p>
+</section>

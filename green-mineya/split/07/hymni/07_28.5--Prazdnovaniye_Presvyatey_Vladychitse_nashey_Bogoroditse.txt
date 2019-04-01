@@ -1,0 +1,9 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>Пра́зднование Пресвяте́й Влады́чице на́шей Богоро́дице ра́ди ико́ны Ея́, имену́емыя «Умиле́ние» или́ «Ра́дость всех ра́достей»</p>
+</title>
+<p>
+<red>Слу́жбу, уста́в и спра́вку зри в 19-м дни, Мине́я-Ию́ль, часть </red>
+<red>II</red>
+<red>.</red>
+</p>
+</section>

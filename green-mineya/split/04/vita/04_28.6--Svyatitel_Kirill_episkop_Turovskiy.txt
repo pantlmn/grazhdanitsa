@@ -1,0 +1,5 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>
+<strong>Литература:</strong>
+</p>
+<p>Еремин И. П. Литературное наследие Кирилла Туровского. — Труды Отдела древнерусской литературы. М.–Л., 1955, т. 11; 1956; т. 12; 1957, т. 13; 1958, т. 15.</p>
+</section>

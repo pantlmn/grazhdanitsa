@@ -1,0 +1,4 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>Священному́ченик Ни́кон, епи́скоп, и 199 ученико́в его́</p>
+</title>
+</section>

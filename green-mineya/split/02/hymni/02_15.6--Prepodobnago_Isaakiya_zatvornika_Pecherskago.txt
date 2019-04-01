@@ -1,0 +1,6 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>
+<red>Преподо́бнаго Исаа́кия, затво́рника Пече́рскаго, </red>
+</p>
+</title>
+</section>

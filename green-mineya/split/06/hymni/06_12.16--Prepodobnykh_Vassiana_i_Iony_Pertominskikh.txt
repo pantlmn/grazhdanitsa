@@ -1,0 +1,9 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>Преподо́бных Вассиа́на и Ио́ны Пертоми́нских, Солове́цких </p>
+</title>
+<p>
+<emphasis>
+<red>Слу́жбу зри 5 июня</red>
+</emphasis>
+</p>
+</section>

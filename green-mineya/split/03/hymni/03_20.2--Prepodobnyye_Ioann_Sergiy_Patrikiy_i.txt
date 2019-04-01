@@ -1,0 +1,4 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>Преподобные Иоа́нн, Се́ргий, Патри́кий и прочие, во оби́тели святого Са́ввы убиенные</p>
+</title>
+</section>

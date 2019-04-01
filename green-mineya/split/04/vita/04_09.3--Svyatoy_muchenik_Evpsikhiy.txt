@@ -1,0 +1,2 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>Народ воздвиг над гробом святого Евпсихия прекрасный храм. Господь прославил Своего мученика многими чудесами, совершенными у его святых мощей.</p>
+</section>

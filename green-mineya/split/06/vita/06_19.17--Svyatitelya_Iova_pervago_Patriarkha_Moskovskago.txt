@@ -1,0 +1,7 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>Житие
+<red>святителя Иова</red>
+смотри
+<style name="color-red"/>
+выше.
+<style name="color-red"/></p>
+</section>

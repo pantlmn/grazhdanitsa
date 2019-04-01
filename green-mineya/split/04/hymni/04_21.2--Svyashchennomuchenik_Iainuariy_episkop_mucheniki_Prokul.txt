@@ -1,0 +1,4 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>Священному́ченик Иаинуарий епи́скоп, му́ченики Проку́л, Со́ссий и Фавст диа́коны, Дисиде́рий чтец, Евти́хий и Акути́он</p>
+</title>
+</section>

@@ -1,0 +1,2 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title><p>Третье обре́тение честной главы́ святого Проро́ка, Предте́чи и Крести́теля Госпо́дня Иоа́нна</p>
+</title></section>

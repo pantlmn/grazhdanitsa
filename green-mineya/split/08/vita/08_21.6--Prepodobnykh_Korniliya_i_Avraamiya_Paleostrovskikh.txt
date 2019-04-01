@@ -1,0 +1,4 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p><strong>Литература:</strong></p>
+<p id="p1"><strong>1</strong>. Денисов Л. И. Православные монастыри Российской империи. М., 1908.</p>
+<p id="p2"><strong>2</strong>. Русак В. икона преподобных отцев, в земле Карельской просиявших. — ЖМП, 1974, № 12.</p>
+</section>

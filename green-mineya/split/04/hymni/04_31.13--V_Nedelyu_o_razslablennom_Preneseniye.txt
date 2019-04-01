@@ -1,0 +1,4 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><title>
+<p>В Неде́лю о разсла́бленном. Пренесе́ние моще́й свята́го му́ченика Авраа́мия Бо́лгарскаго, Влади́мирскаго</p>
+</title>
+</section>

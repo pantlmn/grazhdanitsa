@@ -1,0 +1,7 @@
+<section xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink"><p>
+<emphasis>
+<red>(Службу зри 1 апреля)</red>
+</emphasis>
+</p>
+<p/>
+</section>

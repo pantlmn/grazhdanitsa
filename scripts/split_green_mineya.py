@@ -144,7 +144,7 @@ for month, file_path in input_files.items():
     tree = etree.parse(input_path + file_path)
     root = tree.getroot()
 
-    output_path = '/Users/pantlmn/Desktop/slavcorpora/green-mineya/split/%02d' % month
+    output_path = '/Users/pantlmn/Desktop/slavcorpora/green-mineya/split'
     os.makedirs(output_path, exist_ok=True)
 
     day = 0
@@ -195,14 +195,15 @@ for month, file_path in input_files.items():
                             # print (len(e_subtrees['hymni']))
                     if last_accented_par_id < (sluzhba_len - 1):
                         for par in e_sluzhba:
-                            e_subtrees['vita'].append(par)
+                            e_subtrees['vitae'].append(par)
                     for subdir, e_subtree in e_subtrees.items():
                         # print('%s: %s, %d' %(sluzhba_header_txt, subdir, len(e_subtree)))
                         if len(e_subtree):
                             sluzhba_id += 1
                             print_me = etree.tostring(e_subtree, encoding="unicode")
-                            os.makedirs(output_path + '/' + subdir, exist_ok=True)
-                            output_file = output_path + '/' + subdir + '/%02d_%02d.%d--%s.txt' % (month, day, sluzhba_id, sluzhba_header_txt)
+                            path = "%s/%s/%02d" % (output_path, subdir, month)
+                            os.makedirs(path, exist_ok=True)
+                            output_file = path + '/%02d_%02d.%d--%s.txt' % (month, day, sluzhba_id, sluzhba_header_txt)
                             neat_print(output_file, print_me)
                     # print("%s\t%.2f\t%d" % (sluzhba_header_txt_ru, 100*accents_count/total_length, total_length))
                     # if (day == 1) and (sluzhba_id == 1):
